@@ -13,24 +13,10 @@ Sou um desenvolvedor Python com um forte interesse em **automação de processos
 ## 🛠️ Tecnologias e Ferramentas
 
 <p align="left">
-  <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> </a>
+  <a href="https://www.python.org" target="_blank"> <img src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://www.google.com/url?sa=i&url=https%3A%2F%2Flginfo.com.br%2Fsite%2Fpython-o-que-e-vagas-e-salarios%2F&psig=AOvVaw3MBABD98ylcfRBy9ued36o&ust=1753047470428000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLiRze_wyY4DFQAAAAAdAAAAABAE)" alt="Python"/> </a>
   <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> </a>
 </p>
-### 🛠️ Tecnologias e Ferramentas
-
-<p align="left">
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> 
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/> 
-  </a>
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> 
-  </a>
-</p>
----
 
 ## 🚀 Meus Projetos em Destaque
 
