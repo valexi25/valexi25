@@ -1,9 +1,5 @@
 # Olá, eu sou o Alexi! 👋
 
-``<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=valexi25&show_icons=true&theme=dracula&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub de Alexi Villarroel" />
-</p>``
-
 ## Sobre Mim
 
 Sou um desenvolvedor Python com um forte interesse em **automação de processos** e **análise de dados**. Adoro transformar tarefas manuais e repetitivas em soluções de software eficientes e elegantes. Atualmente, estou **focado** em aprimorar minhas habilidades e criar ferramentas práticas que resolvem problemas do mundo real.
