@@ -6,7 +6,7 @@ Sou um desenvolvedor Python com um forte interesse em **automação de processos
 
 - 📍 Morando em: Cuiabá, Mato Grosso, Brazil
 - 🌱 Estou sempre aprendendo mais sobre o ecossistema Python e boas práticas de desenvolvimento.
-- 📫 Como me encontrar: [www.linkedin.com/in/alexivillarroel]
+- 📫 Como me encontrar:www.linkedin.com/in/alexivillarroel
 
 ---
 
