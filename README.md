@@ -1,7 +1,7 @@
 # Olá, eu sou o Alexi! 👋
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=valexi25&show_icons=true&theme=dracula&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub de Alexi Villarroel" />
+  ''<img src="https://github-readme-stats.vercel.app/api?username=valexi25&show_icons=true&theme=dracula&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub de Alexi Villarroel" />
 </p>
 
 ## Sobre Mim
