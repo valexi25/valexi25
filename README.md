@@ -1,4 +1,7 @@
 # Olá, eu sou o Alexi! 👋
+<p align="center">
+  <img src="https://i.gifer.com/746z.gif" alt="Coelho dançando pixel art" width="200"/>
+</p>
 
 ## Sobre Mim
 
