@@ -1,5 +1,9 @@
 # Olá, eu sou o Alexi! 👋
-
+<p align="center">
+  <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" alt="GIF 1">
+  <img src="https://media3.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="150" alt="GIF 2">
+  <img src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="150" alt="GIF 3">
+</p>
 ## Sobre Mim
 
 Sou um desenvolvedor Python com um forte interesse em **automação de processos** e **análise de dados**. Adoro transformar tarefas manuais e repetitivas em soluções de software eficientes e elegantes. Atualmente, estou **focado** em aprimorar minhas habilidades e criar ferramentas práticas que resolvem problemas do mundo real.
