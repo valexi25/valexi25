@@ -45,6 +45,10 @@ Aqui estão alguns dos projetos que desenvolvi e que demonstram minhas habilidad
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://github.com/valexi25/previsao-campeonato-brasileiro"><b>Previsão do Campeonato Brasileiro</b></a></td>
+      <td>Análise de dados que utiliza <b>web scraping</b> para coletar dados de jogos, <b>Pandas</b> para limpeza e cálculo de estatísticas, e <b>SciPy</b> para aplicar um modelo de previsão estatística (Distribuição de Poisson).</td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/valexi25/automacao-nfe-xml-para-excel"><b>Extrator de NF-e (XML para Excel)</b></a></td>
       <td>Uma ferramenta de automação que lê múltiplos arquivos XML de Notas Fiscais, extrai dados importantes usando <code>xmltodict</code> e consolida tudo em uma única planilha Excel com <code>Pandas</code>.</td>
     </tr>
