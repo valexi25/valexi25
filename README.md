@@ -60,10 +60,6 @@ Aqui estão alguns dos projetos que desenvolvi e que demonstram minhas habilidad
       <td><a href="https://github.com/valexi25/automacao-consolidar-vendas-excel"><b>Consolidador de Vendas</b></a></td>
       <td>Script que automatiza a consolidação de múltiplos relatórios de vendas em CSV. Utiliza <code>Pandas</code> para tratar e organizar os dados, e <code>pywin32</code> para enviar o relatório final por e-mail via Outlook.</td>
     </tr>
-     <tr>
-      <td><a href="https://github.com/valexi25/python-jornada-de-estudos"><b>Jornada de Estudos Python</b></a></td>
-      <td>Meu caderno público e organizado de estudos, com dezenas de exercícios e mini-projetos que documentam meu progresso no aprendizado de Python, desde a sintaxe básica até desafios de lógica complexa.</td>
-    </tr>
   </tbody>
 </table>
 
