@@ -34,34 +34,22 @@ Sou um desenvolvedor Python com um forte interesse em **automação de processos
 
 ## 🚀 Meus Projetos em Destaque
 
-Aqui estão alguns dos projetos que desenvolvi e que demonstram minhas habilidades na prática:
+Aqui estão alguns dos meus projetos mais relevantes, demonstrando minhas habilidades na prática:
 
-<table>
-  <thead>
-    <tr>
-      <th width="33%">Projeto</th>
-      <th width="67%">Descrição</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/valexi25/previsao-campeonato-brasileiro"><b>Previsão do Campeonato Brasileiro</b></a></td>
-      <td>Análise de dados que utiliza <b>web scraping</b> para coletar dados de jogos, <b>Pandas</b> para limpeza e cálculo de estatísticas, e <b>SciPy</b> para aplicar um modelo de previsão estatística (Distribuição de Poisson).</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/valexi25/automacao-nfe-xml-para-excel"><b>Extrator de NF-e (XML para Excel)</b></a></td>
-      <td>Uma ferramenta de automação que lê múltiplos arquivos XML de Notas Fiscais, extrai dados importantes usando <code>xmltodict</code> e consolida tudo em uma única planilha Excel com <code>Pandas</code>.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/valexi25/conversor-de-moedas-gui"><b>Conversor de Moedas com Interface Gráfica</b></a></td>
-      <td>Um aplicativo de desktop com interface gráfica (GUI) feita em <code>CustomTkinter</code>. Ele consome uma API em tempo real para buscar cotações e permite a conversão entre diversas moedas.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/valexi25/automacao-consolidar-vendas-excel"><b>Consolidador de Vendas</b></a></td>
-      <td>Script que automatiza a consolidação de múltiplos relatórios de vendas em CSV. Utiliza <code>Pandas</code> para tratar e organizar os dados, e <code>pywin32</code> para enviar o relatório final por e-mail via Outlook.</td>
-    </tr>
-  </tbody>
-</table>
+<p align="center">
+  <a href="https://github.com/valexi25/flappy-bird-clone-python">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=valexi25&repo=flappy-bird-clone-python&theme=dracula&hide_border=true&locale=pt-br" alt="Card do Projeto Flappy Bird"/>
+  </a>
+  <a href="https://github.com/valexi25/previsao-campeonato-brasileiro">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=valexi25&repo=previsao-campeonato-brasileiro&theme=dracula&hide_border=true&locale=pt-br" alt="Card do Projeto de Previsão do Campeonato Brasileiro"/>
+  </a>
+  <a href="https://github.com/valexi25/automacao-nfe-xml-para-excel">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=valexi25&repo=automacao-nfe-xml-para-excel&theme=dracula&hide_border=true&locale=pt-br" alt="Card do Projeto de Extrator de NF-e"/>
+  </a>
+  <a href="https://github.com/valexi25/conversor-de-moedas-gui">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=valexi25&repo=conversor-de-moedas-gui&theme=dracula&hide_border=true&locale=pt-br" alt="Card do Projeto de Conversor de Moedas"/>
+  </a>
+</p>
 
 ---
 
