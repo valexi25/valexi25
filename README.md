@@ -32,25 +32,7 @@ Sou um desenvolvedor Python com um forte interesse em **automação de processos
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valexi25&layout=compact&theme=dracula&hide_border=true&locale=pt-br" alt="Linguagens Mais Usadas por Alexi" />
 </p>
 
-## 🚀 Meus Projetos em Destaque
-
-Aqui estão alguns dos meus projetos mais relevantes, demonstrando minhas habilidades na prática:
-
-<p align="center">
-  <a href="https://github.com/valexi25/flappy-bird-clone-python">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=valexi25&repo=flappy-bird-clone-python&theme=dracula&hide_border=true&locale=pt-br" alt="Card do Projeto Flappy Bird"/>
-  </a>
-  <a href="https://github.com/valexi25/previsao-campeonato-brasileiro">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=valexi25&repo=previsao-campeonato-brasileiro&theme=dracula&hide_border=true&locale=pt-br" alt="Card do Projeto de Previsão do Campeonato Brasileiro"/>
-  </a>
-  <a href="https://github.com/valexi25/automacao-nfe-xml-para-excel">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=valexi25&repo=automacao-nfe-xml-para-excel&theme=dracula&hide_border=true&locale=pt-br" alt="Card do Projeto de Extrator de NF-e"/>
-  </a>
-  <a href="https://github.com/valexi25/conversor-de-moedas-gui">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=valexi25&repo=conversor-de-moedas-gui&theme=dracula&hide_border=true&locale=pt-br" alt="Card do Projeto de Conversor de Moedas"/>
-  </a>
-</p>
-
+aqui projectos
 ---
 
 <p align="center">
