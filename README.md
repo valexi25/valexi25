@@ -37,6 +37,9 @@ Sou um desenvolvedor Python com um forte interesse em **automação de processos
 Aqui estão alguns dos meus projetos mais relevantes, demonstrando minhas habilidades na prática:
 
 <p align="center">
+  <a href="https://github.com/valexi25/flappy-bird-clone-python">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=valexi25&repo=flappy-bird-clone-python&theme=dracula&hide_border=true&locale=pt-br&cache_seconds=1800" alt="Card do Projeto Flappy Bird"/>
+  </a>
   <a href="https://github.com/valexi25/previsao-campeonato-brasileiro">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=valexi25&repo=previsao-campeonato-brasileiro&theme=dracula&hide_border=true&locale=pt-br&cache_seconds=1800" alt="Card do Projeto de Previsão do Campeonato Brasileiro"/>
   </a>
@@ -45,9 +48,6 @@ Aqui estão alguns dos meus projetos mais relevantes, demonstrando minhas habili
   </a>
   <a href="https://github.com/valexi25/conversor-de-moedas-gui">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=valexi25&repo=conversor-de-moedas-gui&theme=dracula&hide_border=true&locale=pt-br&cache_seconds=1800" alt="Card do Projeto de Conversor de Moedas"/>
-  </a>
-  <a href="https://github.com/valexi25/automacao-consolidar-vendas-excel">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=valexi25&repo=automacao-consolidar-vendas-excel&theme=dracula&hide_border=true&locale=pt-br&cache_seconds=1800" alt="Card do Projeto de Consolidador de Vendas"/>
   </a>
 </p>
 
