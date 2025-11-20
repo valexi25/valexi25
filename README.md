@@ -29,7 +29,7 @@ Sou um desenvolvedor Python com um forte interesse em **automação de processos
   </a>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valexi25&layout=compact&theme=dracula&hide_border=true&locale=pt-br" alt="Linguagens Mais Usadas por Alexi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valexi25&layout=compact&theme=dracula&hide_border=true&locale=pt-br&langs_count=10" alt="Linguagens Mais Usadas por Alexi" />
 </p>
 
 ## 🚀 Meus Projetos em Destaque
