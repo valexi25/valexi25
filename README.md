@@ -21,6 +21,8 @@ Sou um desenvolvedor Python com um forte interesse em **automação de processos
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> 
   </a>
+  <a href="https://www.python.org" target="_blank"> 
+    ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  </a>
   <a href="https://pandas.pydata.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/> 
   </a>
