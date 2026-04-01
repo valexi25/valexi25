@@ -15,56 +15,41 @@ Sou um desenvolvedor Python com um forte interesse em **automação de processos
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠 Tecnologias e Ferramentas
 
-<p align="left">
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> 
-  </a>
+<div align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+</div>
 
-  <a href="https://pandas.pydata.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/> 
-  </a>
+<br />
 
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> 
-  </a>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&theme=dracula" />
+</div>
 
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  </a>
-
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  </a>
-
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-  </a>
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valexi25&layout=compact&theme=dracula&hide_border=true&locale=pt-br&langs_count=10" alt="Linguagens Mais Usadas por Alexi" />
-</p>
+---
 
 ## 🚀 Meus Projetos em Destaque
 
 Aqui estão alguns dos meus projetos mais relevantes, demonstrando minhas habilidades na prática:
 
-<p align="center">
-  <a href="https://github.com/valexi25/flappy-bird-clone-python">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=valexi25&repo=flappy-bird-clone-python&theme=dracula&hide_border=true&locale=pt-br&cache_seconds=1900" alt="Card do Projeto Flappy Bird"/>
+<div align="center">
+  <a href="LINK_DO_REPOSITORIO_FLAPPY">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=NOME_DO_REPO_FLAPPY&theme=dracula" />
   </a>
-  <a href="https://github.com/valexi25/previsao-campeonato-brasileiro">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=valexi25&repo=previsao-campeonato-brasileiro&theme=dracula&hide_border=true&locale=pt-br&cache_seconds=1900" alt="Card do Projeto de Previsão do Campeonato Brasileiro"/>
+  <a href="LINK_DO_REPOSITORIO_PREVISAO">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=NOME_DO_REPO_PREVISAO&theme=dracula" />
   </a>
-  <a href="https://github.com/valexi25/automacao-nfe-xml-para-excel">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=valexi25&repo=automacao-nfe-xml-para-excel&theme=dracula&hide_border=true&locale=pt-br&cache_seconds=1900" alt="Card do Projeto de Extrator de NF-e"/>
-  </a>
-  <a href="https://github.com/valexi25/conversor-de-moedas-gui">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=valexi25&repo=conversor-de-moedas-gui&theme=dracula&hide_border=true&locale=pt-br&cache_seconds=1900" alt="Card do Projeto de Conversor de Moedas"/>
-  </a>
-</p>
+</div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+</div>
 ---
 
 <p align="center">
